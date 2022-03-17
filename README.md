@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @julesdellares
-27 | xe/xem/xeir | married twice 
+-👋 Hi, I’m @julesdellares
+-27 | xe/xem/xeir | married twice 
 
 - 👀 I’m interested in ...
 - >internet culture
 - >weird art
 - >ENA, TWF, NITW, Monument Mythos, Mandela Catalogue
+- Learning to code well
+- Informationa nd Network Security
 
 
 - 🌱 I’m currently learning ...
